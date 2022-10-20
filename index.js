@@ -10,7 +10,7 @@ const gravity = 0.2
 
 class Sprite {
     constructor({position,velocity}) {
-        this.position = position 
+        this.position = position
         this.velocity = velocity
         this.height = 150
     }
